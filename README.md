@@ -19,7 +19,7 @@ Fazer uma comparação entre os principais algoritmos de Aprendizagem de máquin
 Utilizando uma base de dados que consiste em principais características que consumidores observam ao comprar um carro. Os algoritmos irão então classificar o carro em questão como:
 
 ```sh
-1-Inaceitável
+1- Inaceitável
 2- Aceitável
 3- Bom
 4- Muito Bom
