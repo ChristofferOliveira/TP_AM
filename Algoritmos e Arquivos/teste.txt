@@ -1,0 +1,9 @@
+med,low,2,4,small,high,good
+med,low,2,4,med,low,unacc
+med,low,2,4,med,med,acc
+med,low,2,4,med,high,good
+med,low,2,4,big,low,unacc
+med,low,2,4,big,med,good
+med,low,2,4,big,high,vgood
+med,low,2,more,small,low,unacc
+med,low,2,more,small,med,unacc
